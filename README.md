@@ -1,2 +1,4 @@
 # Sample-Quantlib-Python
-An example of derivatives pricing in Python using QuantLib
+An example of pricing an option in Python using QuantLib in Jupyter notebook.
+
+#To Do.
